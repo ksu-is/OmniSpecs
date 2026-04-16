@@ -1,3 +1,3 @@
-Create repository - DONE
-Create README.md - DONE
-Create projectroadmap.md and update as necessary - DONE
+- [X] Create Repository
+- [X] Create REAME.md
+- [X] Create projectroadmap.md 

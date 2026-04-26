@@ -1,3 +1,7 @@
 - [X] Create Repository
 - [X] Create REAME.md
 - [X] Create projectroadmap.md 
+- [X] Create Excel directory with specs for 50+ devices
+- [X] Write initial Python code using local dictionaries as a backup
+- [X] Update code to import data using `pandas` or `openpyxl`
+- [X] Fix code to allow users to manually input the Excel file location.
